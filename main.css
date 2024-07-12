@@ -1,0 +1,57 @@
+.navbar {
+    background-color: forestgreen;
+}
+
+#cabecalho .nav .nav-link.active {
+    color: forestgreen;
+    background-color:white;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-servicos .nav-link.active:hover {
+    color: white;
+}
+
+
+.navbar-toggler {
+    background-color: rgb(210, 240, 167);
+}
+
+.section-title {
+    font-family: "Lato", sans-serif;
+}
+
+
+#about, #servicos {
+    background-color: rgb(226, 238, 226);
+}
+
+.text-colored {
+    color: forestgreen;
+}
+
+.nav-servicos .nav-link.active, #contact button {
+    background-color: forestgreen;
+    color: white;
+}
+
+.nav-servicos .nav-link:hover {
+    color: forestgreen;
+}
+
+.social-links li {
+    list-style: none;
+    display: inline;
+}
+
+.social-links a {
+    text-decoration: none;
+}
+
+.carousel-inner img {
+    width: 1845px; /* Any width you want */
+    height: 650px; /* Any width you want */
+
+}
