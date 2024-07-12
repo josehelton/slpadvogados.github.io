@@ -55,3 +55,9 @@
     height: 650px; /* Any width you want */
 
 }
+
+@media (max-width: 767px) {
+    .carousel-item img{
+        width: 100%;
+    }
+}
