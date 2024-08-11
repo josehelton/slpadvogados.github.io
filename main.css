@@ -1,9 +1,9 @@
 .navbar {
-    background-color: forestgreen;
+    background-color: rgb(46, 182, 216);
 }
 
 #cabecalho .nav .nav-link.active {
-    color: forestgreen;
+    color: rgb(26, 171, 228);
     background-color:white;
 }
 
@@ -16,7 +16,7 @@
 
 
 .navbar-toggler {
-    background-color: rgb(210, 240, 167);
+    background-color: rgb(167, 238, 240);
 }
 
 .section-title {
@@ -25,11 +25,11 @@
 
 
 #about, #servicos {
-    background-color: rgb(226, 238, 226);
+    background-color: rgb(180, 235, 248);
 }
 
 .text-colored {
-    color: forestgreen;
+    color: rgb(33, 60, 212);
 }
 
 .nav-servicos .nav-link.active, #contact button {
